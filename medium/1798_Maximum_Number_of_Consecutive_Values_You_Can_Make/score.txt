@@ -1,0 +1,2 @@
+Runtime: 112 ms, faster than 100.00% of C++ online submissions for Maximum Number of Consecutive Values You Can Make.
+Memory Usage: 66.6 MB, less than 100.00% of C++ online submissions for Maximum Number of Consecutive Values You Can Make.

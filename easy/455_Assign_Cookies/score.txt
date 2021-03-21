@@ -1,0 +1,2 @@
+Runtime: 20 ms, faster than 99.10% of C++ online submissions for Assign Cookies.
+Memory Usage: 17.6 MB, less than 57.82% of C++ online submissions for Assign Cookies.

@@ -1,0 +1,3 @@
+Runtime: 36 ms, faster than 96.77% of C++ online submissions for Maximum Units on a Truck.
+Memory Usage: 15.8 MB, less than 99.89% of C++ online submissions for Maximum Units on a Truck.
+

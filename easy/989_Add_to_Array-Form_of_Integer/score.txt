@@ -1,0 +1,2 @@
+Runtime: 20 ms, faster than 96.08% of C++ online submissions for Add to Array-Form of Integer.
+Memory Usage: 29.3 MB, less than 7.50% of C++ online submissions for Add to Array-Form of Integer.

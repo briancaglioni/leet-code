@@ -1,0 +1,2 @@
+Runtime: 8 ms, faster than 99.53% of C++ online submissions for Can Place Flowers.
+Memory Usage: 20.2 MB, less than 84.22% of C++ online submissions for Can Place Flowers.
